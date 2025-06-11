@@ -1,0 +1,8 @@
+/Users/mertcicekci/Desktop/WsMaterials/Vibe-coding-workshop/hopechain/contracts/donation/target/release/deps/libserde_with_macros-f327fa938975081f.dylib: /Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lib.rs /Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/apply.rs /Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lazy_bool.rs /Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/utils.rs
+
+/Users/mertcicekci/Desktop/WsMaterials/Vibe-coding-workshop/hopechain/contracts/donation/target/release/deps/serde_with_macros-f327fa938975081f.d: /Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lib.rs /Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/apply.rs /Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lazy_bool.rs /Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/utils.rs
+
+/Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lib.rs:
+/Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/apply.rs:
+/Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/lazy_bool.rs:
+/Users/mertcicekci/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.12.0/src/utils.rs:

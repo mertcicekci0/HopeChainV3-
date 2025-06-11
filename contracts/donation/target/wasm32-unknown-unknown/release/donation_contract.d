@@ -1,0 +1,1 @@
+/Users/mertcicekci/Desktop/WsMaterials/Vibe-coding-workshop/hopechain/contracts/donation/target/wasm32-unknown-unknown/release/donation_contract.wasm: /Users/mertcicekci/Desktop/WsMaterials/Vibe-coding-workshop/hopechain/contracts/donation/src/lib.rs
