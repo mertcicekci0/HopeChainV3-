@@ -2,6 +2,8 @@
 
 A minimal donation dApp built with Next.js, TypeScript, Tailwind CSS, and Stellar Soroban smart contracts.
 
+CONTRACT_ID: CASELEFWAMO6QUBDRPD2HUV6JQ4MB7TERSJTCBLLW7MCEQ7MP3FOIGSU
+
 ## ✨ Features
 
 - **Freighter Wallet Integration**: Connect and interact with Stellar testnet
